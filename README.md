@@ -1,23 +1,21 @@
-# Computer Graphics Simulation using OpenGL in C++
+# Computer Graphics Simulation Using OpenGL in C++
 
 ## Project Overview
 
-This project demonstrates the implementation of fundamental computer graphics concepts using OpenGL and C++.
-
-Several graphical objects and transformations are implemented to explore how mathematical operations can be used to manipulate graphical structures.
+This project demonstrates the implementation of fundamental computer graphics concepts using OpenGL and C++. It highlights how mathematical operations can be used to manipulate and transform graphical objects effectively.
 
 ---
 
 ## Concepts Implemented
 
-- geometric transformations
-- translation
-- rotation
-- scaling
-- reflection
-- shear transformation
-- bezier curve generation
-- recursive graphics algorithms
+- Geometric transformations
+- Translation
+- Rotation
+- Scaling
+- Reflection
+- Shear transformation
+- Bézier curve generation
+- Recursive graphics algorithms
 
 ---
 
@@ -25,30 +23,30 @@ Several graphical objects and transformations are implemented to explore how mat
 
 C++  
 OpenGL  
-GLUT
+GLUT  
 
 ---
 
 ## Example Implementations
 
-- drawing geometric shapes
-- transformation simulation
-- bezier curve construction
-- graphical pattern generation
+- Drawing geometric shapes
+- Transformation simulations
+- Bézier curve construction
+- Graphical pattern generation
 
 ---
 
 ## Skills Demonstrated
 
-- computer graphics programming
-- mathematical modeling
-- algorithm implementation
-- C++ programming
+- Computer graphics programming
+- Mathematical modeling
+- Algorithm implementation
+- C++ development
 
 ---
 
 ## Future Improvements
 
-- implement 3D graphics
-- add animation and interactivity
-- expand graphical simulations
+- Implement 3D graphics
+- Add animation and interactivity
+- Expand graphical simulations
