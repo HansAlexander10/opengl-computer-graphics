@@ -50,3 +50,11 @@ GLUT
 - Implement 3D graphics
 - Add animation and interactivity
 - Expand graphical simulations
+
+---
+
+## Author
+
+Hans Alexander  
+Informatics Engineering Student  
+Interests: Computer Graphics, Mathematical Modeling, and Algorithm Design
